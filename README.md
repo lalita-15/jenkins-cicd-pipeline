@@ -1,16 +1,16 @@
 # Task : 2 Jenkins CI/CD Pipeline on AWS
 
-This project shows how to automate build, test, and deployment using Jenkins and Docker on an AWS EC2 instance.
+This project demonstrates how to automate build, test, and deployment using Jenkins and Docker on an AWS EC2 instance.
 
-## Tools Used
+## Skills I Used during this Task
 - AWS EC2
 - Jenkins
 - Docker
 - Git & GitHub
 
-## Project Steps
-1. Setup Jenkins on AWS EC2.
-2. Create a Dockerfile and Jenkinsfile.
+##  Steps I Followed : 
+1. Setup Jenkins and Docker on AWS EC2.
+2. Create application using Node js, Dockerfile and Jenkinsfile .
 3. Connect GitHub repository with Jenkins.
 4. Build Docker image using Jenkins pipeline.
 5. Test the application.
@@ -23,7 +23,7 @@ This project shows how to automate build, test, and deployment using Jenkins and
 http://<EC2-Public-IP>:3000/
 ```
 
-## Result
+## Final Outcome
 
 The application is successfully built, tested, and deployed using a Jenkins CI/CD pipeline.
 
