@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-cicd-aws-demo",
+  "version": "1.0.0",
+  "description": "Simple Jenkins CI/CD pipeline on AWS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --check app.js"
+  }
+}
