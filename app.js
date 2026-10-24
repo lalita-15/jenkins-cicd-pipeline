@@ -76,7 +76,7 @@ const html = `
 <body>
   <div class="card">
     <div class="icon">🚀</div>
-    <h1>Task :2 Jenkins CI/CD Application</h1>
+    <h1>Task : 2 Jenkins CI/CD Application</h1>
     <p>
       Welcome! This Node.js application is deployed
       on AWS EC2 using Docker and Jenkins.
